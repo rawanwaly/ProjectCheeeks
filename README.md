@@ -8,7 +8,7 @@ Cheeks is a social media app designed for younger users. Our platform provides a
 
 
 
-## Bone By
+## Done By
 
 Html
 Css
